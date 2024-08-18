@@ -1,0 +1,52 @@
+.body {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    text-align: left;
+}
+
+.title {
+    font-size: 2vw;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.subtitle {
+    font-size: 1vw;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.resultsHeader {
+    margin-left: 5vw;
+}
+
+.buttonContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+.button {
+    border: black 1px solid;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.searchboxContainer {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchbox {
+    font-size: 1vw;
+    margin-bottom: 10px;
+    width: 50vw;
+    padding: 4px;
+    border: 1px solid black;
+}
