@@ -1,6 +1,7 @@
 {
   "name": "mosaic",
   "version": "0.1.0",
+  "homepage": "https://michael-gu.github.io/mosaic",
   "private": true,
   "dependencies": {
     "@fluentui/react-components": "^9.54.13",
